@@ -1,4 +1,4 @@
-# Spring CRUD Microservice
+# Spring Boot CRUD Microservice
 * This project is a simple CRUD (Create, Read, Update, Delete) microservice built using Spring Boot. It demonstrates how to create RESTful APIs for managing resources in a microservice architecture, following best practices for scalability, maintainability, and testability.
 
 # Key Features:
